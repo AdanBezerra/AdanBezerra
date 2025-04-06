@@ -1,7 +1,7 @@
 ## Olá! Me chamo Adan Bezerra 👋
 - 🔭 Idiomas: Inglês, Espanhol e Português.
 - 🌱 Graduando em Análise e Desenvolvimento de Sistemas.
-- 📫 Contate-me no email: adanbezerra51@gmail.com
+- 📫 Contate-me no email: contato.adanbezerra@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
